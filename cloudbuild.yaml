@@ -81,5 +81,5 @@ steps:
 
 options:
   logging: CLOUD_LOGGING_ONLY
-serviceAccount: 'projects/YOUR_PROJECT_ID/serviceAccounts/your-custom-sa@your-project-id.iam.gserviceaccount.com'
+serviceAccount: 'projects/majestic-bounty-460517-j3/serviceAccounts/694899053864-compute@developer.gserviceaccount.com'
 # [END tf-apply]      
